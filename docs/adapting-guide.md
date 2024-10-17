@@ -1,6 +1,6 @@
 # Adapting this Website
 
-Many people have contacted me about adapting this website. I have tried to make things as simple as possible. There are still bugs. I am sorry. If you find a bug, please email me (help@bamzzzz.com), submit a pull request or submit an issue.
+Many people have contacted me about adapting this website. I have tried to make things as simple as possible. There are still bugs. I am sorry. If you find a bug, please email me (help@bamzzzz.com), submit a pull request or submit any issue.
 
 ## Before you start
 
