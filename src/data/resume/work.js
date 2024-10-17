@@ -13,20 +13,20 @@
  */
 const work = [
   {
-    name: 'Promptfoo',
-    position: 'Co-founder & CTO',
-    url: 'https://promptfoo.dev',
+    name: 'Amazon',
+    position: 'Associate',
+    url: 'https://amazon.com',
     startDate: '2024-07-01',
-    summary: 'Promptfoo builds open-source tools to evaluate, find, and fix vulnerabilities in large language models (LLMs). Our open-source tools are used by over 35,000 developers and researchers worldwide.',
+    summary: 'Amazon builds open-source tools to evaluate, find, and fix vulnerabilities in large language models (LLMs). Our open-source tools are used by over 35,000 developers and researchers worldwide.',
     highlights: [
       'Built and scaled engineering team, emphasizing diversity and open-source contribution',
       'Established key partnerships with AI research institutions and tech companies',
     ],
   },
   {
-    name: 'Smile Identity',
-    position: 'VP Engineering & Head of AI',
-    url: 'https://smileidentity.com',
+    name: 'Smile',
+    position: 'Assistant Engineering for AI',
+    url: 'https://smile.com',
     startDate: '2022-01-01',
     endDate: '2024-07-01',
     summary: `Smile builds machine learning APIs to compare user submitted photos to ID documents. Our APIs are
@@ -45,11 +45,11 @@ const work = [
     ],
   },
   {
-    name: 'Skeptical Investments',
-    position: 'Co-founder',
-    url: 'http://skepticalinvestments.biz',
+    name: 'Investment banker',
+    position: 'Associate',
+    url: 'http://investmentbanker.biz',
     startDate: '2017-04-01',
-    summary: `Skeptical Investments is a micro-vc fund focused on Angel, Seed, and Series-A
+    summary: `Investments is a micro-vc fund focused on Angel, Seed, and Series-A
     YC companies.`,
     highlights: [
       'Created the InstaSafe. Fast, automated investment docs for YC companies.',
