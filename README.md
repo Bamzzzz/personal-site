@@ -9,7 +9,7 @@
 ### 🌟 Take a Glimpse
 <p align="center"> 
   <kbd>
-    <a href="https://Bamzzzz.github.io" target="_blank"><img src="examples/preview.gif" alt="Portfolio Preview">
+    <a href="https://bamzzzz.github.io" target="_blank"><img src="examples/preview.gif" alt="Portfolio Preview">
   </a>
   </kbd>
 </p>
