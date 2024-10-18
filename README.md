@@ -1,18 +1,18 @@
 # Welcome to My Personal Portfolio! 🚀
 
 > ## Descriptions
-> This repository contains a version of SE Foundations portifolio, requested by [Alx-Africa School](https://www.alxafrica.com/) in partial fullfilment for Foundations, done by [Demiso Daba](https://github.com/DemisoDaba/)
+> This repository contains a version of SE Foundations portifolio, requested by [Alx-Africa School](https://www.alxafrica.com/) in partial fullfilment for Foundations, done by [Adewumi Ayobami](https://github.com/Bamzzzz/)
 
-![GitHub stars](https://img.shields.io/github/stars/DemisoDaba/DemisoDaba.github.io)
-![GitHub forks](https://img.shields.io/github/forks/DemisoDaba/DemisoDaba.github.io)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://DemisoDaba.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/demiso-daba-swre0/)
+![GitHub stars](https://img.shields.io/github/stars/Bamzzzz/Bamzzzz.github.io)
+![GitHub forks](https://img.shields.io/github/forks/Bamzzzz/Bamzzzz.github.io)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://Bamzzzz.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/ayobami-adewumi-47bb1b148/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### 🌟 Take a Glimpse
 <p align="center"> 
   <kbd>
-    <a href="https://DemisoDaba.github.io" target="_blank"><img src="examples/preview.gif" alt="Portfolio Preview">
+    <a href="https://Bamzzzz.github.io" target="_blank"><img src="examples/preview.gif" alt="Portfolio Preview">
   </a>
   </kbd>
 </p>
@@ -32,7 +32,7 @@
 ## Get Started 🚀
 1. Clone the repository.
 2. Tailor the content in <b>index.html</b> to suit your needs.
-3. Customize images in `DemisoDaba.github.io/assets/img/` according to your preferences.
+3. Customize images in `Bamzzzz.github.io/assets/img/` according to your preferences.
 4. Utilize [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) for hassle-free deployment.
 5. Create a GitHub repository named `<your-github-username>.github.io`.
 6. Push the modified code to the `master` branch of this repository.
@@ -49,7 +49,7 @@
 ✔️ **Contact Info**\
 ✔️ **Resume**
 
-Experience it live: **[Click Here](https://DemisoDaba.github.io/)**
+Experience it live: **[Click Here](https://Bamzzzz.github.io/)**
 
 ---
 
