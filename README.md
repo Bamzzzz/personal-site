@@ -1,7 +1,7 @@
 # Welcome to My Personal Portfolio! 🚀
 
 > ## Descriptions
-> This repository contains a version of SE Foundations portifolio, requested by [Alx-Africa School](https://www.alxafrica.com/) in partial fullfilment for Foundations, done by [Adewumi Ayobami](https://github.com/Bamzzzz/)
+> This repository contains a version of SE Foundations portifolio, requested by [Alx-Africa School](https://www.alxafrica.com/) in partial fullfilment for Foundations, done by [Adewumi Ayobami](https://github.com/bamzzzz/)
 
 ![GitHub stars](https://img.shields.io/github/stars/Bamzzzz/Bamzzzz.github.io)
 ![GitHub forks](https://img.shields.io/github/forks/Bamzzzz/Bamzzzz.github.io)
