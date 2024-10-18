@@ -6,14 +6,6 @@
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/ayobami-adewumi-47bb1b148/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-### 🌟 Take a Glimpse
-<p align="center"> 
-  <kbd>
-    <a href="https://bamzzzz.github.io" target="_blank"><img src="examples/preview.gif" alt="Portfolio Preview">
-  </a>
-  </kbd>
-</p>
-
 ⭐ Don't forget to star this repository on GitHub—it truly makes a difference!
 
 ---
