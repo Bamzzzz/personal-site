@@ -1,80 +1,77 @@
-# Personal Website
+# Welcome to My Personal Portfolio! 🚀
 
-Welcome to my [personal website](https://bamzzzz.com)! This is an [MIT licensed](https://github.com/bamzzzz/personal-site/blob/main/LICENSE) React-based Jamstack application. It offers a simple interface, easy modifications, static export capabilities, and free automatic deployments via [GitHub Pages](https://pages.github.com/).
+> ## Descriptions
+> This repository contains a version of SE Foundations portifolio, requested by [Alx-Africa School](https://www.alxafrica.com/) in partial fullfilment for Foundations, done by [Demiso Daba](https://github.com/DemisoDaba/)
 
-## 🚀 Features
+![GitHub stars](https://img.shields.io/github/stars/DemisoDaba/DemisoDaba.github.io)
+![GitHub forks](https://img.shields.io/github/forks/DemisoDaba/DemisoDaba.github.io)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://DemisoDaba.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/demiso-daba-swre0/)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-- Built with modern JavaScript, using tools and frameworks like [create-react-app](https://github.com/facebook/create-react-app), [React-Router](https://reactrouter.com/), and SCSS.
-- Automated workflows via [GitHub Actions](https://github.com/features/actions).
-- And more!
+### 🌟 Take a Glimpse
+<p align="center"> 
+  <kbd>
+    <a href="https://DemisoDaba.github.io" target="_blank"><img src="examples/preview.gif" alt="Portfolio Preview">
+  </a>
+  </kbd>
+</p>
 
-## 🛠 Adapting this Project
+⭐ Don't forget to star this repository on GitHub—it truly makes a difference!
 
-Want to create your own personal website based on this project? You can set it up in as little as 30 minutes! Follow the setup instructions below and check out the **[detailed guide and checklist](./docs/adapting-guide.md)** on adapting this project to your needs. If you encounter any challenges, don't hesitate to contact me through an issue or email at [help@bamzzzz.com](mailto:princehaywhy@gmail.com).
+---
 
-## 🤝 Contributing
+## Features 📋
+⚡️ **Fully Responsive**\
+⚡️ **Valid HTML5 & CSS3**\
+⚡️ **Integrate Typing Animation with `Typed.js`**\
+⚡️ **Highly Customizable**
 
-Your contributions are warmly welcomed! If you wish to contribute, please review the [design goals](./docs/design-goals.md), [roadmap](./docs/roadmap.md), and [contributing guidelines](./docs/contributing.md). For any bugs or suggestions, you can reach out via email, submit a pull request (I'd be happy to get you a coffee as a thank-you!), or open an issue.
+---
 
-## 🔧 Dependencies
+## Get Started 🚀
+1. Clone the repository.
+2. Tailor the content in <b>index.html</b> to suit your needs.
+3. Customize images in `DemisoDaba.github.io/assets/img/` according to your preferences.
+4. Utilize [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) for hassle-free deployment.
+5. Create a GitHub repository named `<your-github-username>.github.io`.
+6. Push the modified code to the `master` branch of this repository.
+7. <b>NOTE:</b> Set `analyticsId` from your Google Analytics account within the Google Analytics script tag if using your own.
 
-Ensure you have [node](https://nodejs.org/) >= v16. Optionally, use [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) to manage node versions.
+---
 
-## 🚀 Setup and Running
+## Sections 📚
+✔️ **About Me**\
+✔️ **Experience**\
+✔️ **Projects** \
+✔️ **Skills** \
+✔️ **Education**\
+✔️ **Contact Info**\
+✔️ **Resume**
 
-1. Clone the repository:
+Experience it live: **[Click Here](https://DemisoDaba.github.io/)**
 
-   ```bash
-   git clone git://github.com/mldangelo/personal-site.git
-   cd personal-site
-   ```
+---
 
-2. (Optional) Ensure you're on Node v16 or higher:
+## Tools Used 🛠️
+* [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - Host static website (HTML, CSS, JS).
+* [<b>Materialize</b>](https://materializecss.com/) - CSS framework for Google's Material Design components.
+* [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
 
-   ```bash
-   nvm install
-   node --version
-   ```
+---
 
-3. Install dependencies:
+## Contributing 💡
+1. **Option 1**
+    - 🍴 Fork this repo!
 
-   ```bash
-   npm install
-   ```
+2. **Option 2**
+    - 👯 Clone this repo to your local machine.
 
-4. Start the application:
+3. **Craft your magic** 🔨🔨🔨
 
-   ```bash
-   npm start
-   ```
+4. **Create a new pull request.**
 
-By default, the application should be available at [http://localhost:3000/](http://localhost:3000/).
+---
 
-## 🚢 Deploying
-
-### Deploying to GitHub Pages
-
-1. Update the environment variables and Git remote URL in [`.github/workflows/github-pages.yml`](.github/workflows/github-pages.yml).
-2. Adjust the `homepage` value in `package.json` based on your hosting preferences.
-3. Planning on using a custom domain? Update `public/CNAME`. Otherwise, remove it.
-
-After making a commit to `main`, simply push your changes, and the deployment will be handled automatically.
-
-### Static Export
-
-For a static export without deploying to GitHub Pages:
-
-- Remove or disable `.github/workflows/github-pages.yml`.
-- Execute:
-
-  ```bash
-  npm run predeploy
-  ```
-
-This will generate a static version in `personal-site/build/` which you can host or deploy to a CDN.
-
-## 🙌 Acknowledgements
-
-- Initial template from [Future Imperfect](https://html5up.net/future-imperfect) by [@ajlkn](https://github.com/ajlkn) for [HTML5 UP](html5up.net).
-- Special thanks to [@typpo](https://github.com/typpo) for tirelessly answering all of my node.js and react questions.
-- Kudos to [@notrueblood](https://github.com/notrueblood)[<sup>[1]</sup>](https://github.com/bamzzzz/personal-site/pull/218) and [@sjhsieh](https://github.com/sjhsieh)[<sup>[2]</sup>](https://github.com/mldangelo/personal-site/issues/168) for their constructive feedback.
+## License 📄
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
