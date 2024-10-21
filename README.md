@@ -40,18 +40,6 @@ Experience it live: **[Click Here](https://Bamzzzz.github.io/)**
 * [<b>Materialize</b>](https://materializecss.com/) - CSS framework for Google's Material Design components.
 * [<b>Typed.js</b>](https://mattboldt.com/demos/typed-js/) - JavaScript Library
 
----
-
-## Contributing 💡
-1. **Option 1**
-    - 🍴 Fork this repo!
-
-2. **Option 2**
-    - 👯 Clone this repo to your local machine.
-
-3. **Craft your magic** 🔨🔨🔨
-
-4. **Create a new pull request.**
 
 ---
 
